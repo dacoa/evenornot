@@ -1,6 +1,5 @@
 #Even or Uneven number
 def evenOrEven():
-    
     print("---Welcome to Even or Uneven numbers---")
     print("---Write anything else to exit---")
     try:
@@ -15,5 +14,5 @@ def evenOrEven():
     except:
         return print("GoodBye!")
 evenOrEven()
-
 #date: 28 - 4- 22
+#Thank you
