@@ -11,7 +11,7 @@ def evenOrEven():
                 number = int(input(">> "))
             else:
                 print("It's an uneven number!, Can you add another number?")
-                number = int(input(">> "))
+                number = int(input(">> ")) 
     except:
         return print("GoodBye!")
 evenOrEven()
