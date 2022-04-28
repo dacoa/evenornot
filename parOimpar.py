@@ -15,6 +15,3 @@ def evenOrEven():
     except:
         return print("GoodBye!")
 evenOrEven()
-#Primer programa para subir a github 
-
-#print("Hola, hay que esperar")
